@@ -1,0 +1,12 @@
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\bin\Release\FlatDesign.exe.config
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\bin\Release\FlatDesign.exe
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\bin\Release\FlatDesign.pdb
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\obj\Release\FlatDesign.ChildForms.FormOrders.resources
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\obj\Release\FlatDesign.FormMain.resources
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\obj\Release\FlatDesign.FormParentOfThisForms.resources
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\obj\Release\FlatDesign.Properties.Resources.resources
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\obj\Release\FlatDesign.csproj.GenerateResource.cache
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\obj\Release\FlatDesign.csproj.CoreCompileInputs.cache
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\obj\Release\FlatDesign.exe
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\obj\Release\FlatDesign.pdb
+C:\Users\dinov\source\repos\FlatDesign\FlatDesign\obj\Release\FlatDesign.csproj.AssemblyReference.cache
